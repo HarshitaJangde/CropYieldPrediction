@@ -7,8 +7,8 @@ This project predicts crop yield based on soil and weather features such as Fert
 ---
 
 ## Directory Structure
-'''
-MLProjectName/
+
+'''MLProjectName/
 │
 ├── src/ # Source code files (training, prediction, preprocessing)
 ├── data/ # Dataset files: original and train/test splits
@@ -16,8 +16,8 @@ MLProjectName/
 ├── output/ # Outputs: predictions and logs
 ├── docs/ # Documentation and project report
 ├── notebooks/ # Jupyter notebooks for data preparation and EDA
-├── requirements.txt # Python dependencies
-'''
+├── requirements.txt # Python dependencies'''
+
 
 ---
 
